@@ -9,7 +9,7 @@ from loaders.ventas import extract_ventas
 from loaders.ventas_detalle import extract_ventas_detalle
 
 
-FECHA_INICIO = date(2026, 5, 1)
+FECHA_INICIO = date(2026, 1, 1)
 FECHA_FIN = date.today()
 
 
